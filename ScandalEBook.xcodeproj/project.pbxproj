@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3B5BAA991FB3465A006F79D7 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B5BAA981FB3465A006F79D7 /* TestViewController.swift */; };
 		3B9D25361FAF976C00A20DFA /* Album_QueensAreTrumpsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9D25351FAF976C00A20DFA /* Album_QueensAreTrumpsTableViewController.swift */; };
 		3B9D25381FAF9C9300A20DFA /* Album_BabyActionTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9D25371FAF9C9300A20DFA /* Album_BabyActionTableViewController.swift */; };
 		3B9D253A1FAF9CB500A20DFA /* Album_TemptationBoxTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9D25391FAF9CB500A20DFA /* Album_TemptationBoxTableViewController.swift */; };
@@ -33,7 +32,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3B5BAA981FB3465A006F79D7 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		3B9D25351FAF976C00A20DFA /* Album_QueensAreTrumpsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album_QueensAreTrumpsTableViewController.swift; sourceTree = "<group>"; };
 		3B9D25371FAF9C9300A20DFA /* Album_BabyActionTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album_BabyActionTableViewController.swift; sourceTree = "<group>"; };
 		3B9D25391FAF9CB500A20DFA /* Album_TemptationBoxTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album_TemptationBoxTableViewController.swift; sourceTree = "<group>"; };
@@ -94,7 +92,6 @@
 				3BD91C721FAE049F003ED63B /* WebPageManager.swift */,
 				3BDD8BEB1FA8C39F00160CDA /* ViewController.swift */,
 				3BDD8BED1FA8C39F00160CDA /* Main.storyboard */,
-				3B5BAA981FB3465A006F79D7 /* TestViewController.swift */,
 				3BFF37611FAF3F3800C53D61 /* YoutubeViewController.swift */,
 				3BFF375F1FAF08BD00C53D61 /* TwitterRINAViewController.swift */,
 				3BFF375D1FAF083300C53D61 /* TwitterTOMOMIViewController.swift */,
@@ -200,7 +197,6 @@
 				3B9D25381FAF9C9300A20DFA /* Album_BabyActionTableViewController.swift in Sources */,
 				3BFF37641FAF42A700C53D61 /* Album_YellowTableViewController.swift in Sources */,
 				3BFF376A1FAF909500C53D61 /* Album_StandardTableViewController.swift in Sources */,
-				3B5BAA991FB3465A006F79D7 /* TestViewController.swift in Sources */,
 				3B9D253C1FAF9CE900A20DFA /* Album_BestScandalTableViewController.swift in Sources */,
 				3BD91C751FAE0CA0003ED63B /* TwitterViewController.swift in Sources */,
 				3BD91C791FAE16F1003ED63B /* NewsViewController.swift in Sources */,
