@@ -1,4 +1,4 @@
-# PolynomialForm 
+# ScandalEBook 
 
 ![image](https://cdn-images-1.medium.com/max/360/1*JMbh099LN7D1cmvDH8ckvQ.png)
 
