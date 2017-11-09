@@ -8,7 +8,7 @@ An iPhone App about Scandal(Japanese Rock Band) , made by a little fan :).
 
 ## How to use ?
 
-1. Download & run for fun !
+1. Download & run in Xcode for fun !
 2. The Album(アルバム) page can link to the Music on youtube!
 
 ## Library or API Reference
